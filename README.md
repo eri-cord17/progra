@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # programacion-10
 
 __Propietario__: Ericka Canles
@@ -14,3 +15,6 @@ python3 scriptCarpetas.py
 
 > [!TIP]
 > Si se encuentra en un sistema Windows, utilice `py` en lugar de `python3`
+=======
+m 
+>>>>>>> def5a9cfe332648eb214e18916222c56d63c92a0
